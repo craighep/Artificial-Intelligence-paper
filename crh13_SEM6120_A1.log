@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.10.4)  4 OCT 2015 12:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.10.4)  5 OCT 2015 14:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -149,7 +149,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 LaTeX Warning: Unused global option(s):
     [article].
 
-No file crh13_SEM6120_A1.aux.
+(./crh13_SEM6120_A1.aux)
 \openout1 = `crh13_SEM6120_A1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -164,6 +164,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
+
 -- Lines per column: 58 (exact).
 (c:/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -226,37 +227,44 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ˜ in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 44.
+(Font)              <7> on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 44.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 44.
- [1{c:/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+(Font)              <5> on input line 27.
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--56
+
+ []
+
+[1{c:/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
-
-] (./crh13_SEM6120_A1.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+]
+(./crh13_SEM6120_A1.aux) ) 
 Here is how much of TeX's memory you used:
- 2309 strings out of 493054
- 37878 string characters out of 6138327
- 102335 words of memory out of 5000000
- 5834 multiletter control sequences out of 15000+600000
- 38728 words of font info for 72 fonts, out of 8000000 for 9000
+ 2295 strings out of 493054
+ 37772 string characters out of 6138327
+ 104338 words of memory out of 5000000
+ 5826 multiletter control sequences out of 15000+600000
+ 34085 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,5n,23p,653b,208s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2015/texm
-f-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2015/texmf-dist/fonts/type1
-/urw/times/utmbi8a.pfb><c:/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a
-.pfb><c:/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on crh13_SEM6120_A1.pdf (1 page, 50908 bytes).
+ 37i,5n,23p,653b,164s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.e
+nc}<c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/tex
+live/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2015/texmf-di
+st/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2015/texmf-dist/fonts/type1/ur
+w/times/utmr8a.pfb><c:/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pf
+b>
+Output written on crh13_SEM6120_A1.pdf (1 page, 57803 bytes).
 PDF statistics:
- 25 PDF objects out of 1000 (max. 8388607)
- 17 compressed objects within 1 object stream
+ 29 PDF objects out of 1000 (max. 8388607)
+ 20 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
