@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.10.4)  19 OCT 2015 13:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.10.4)  26 OCT 2015 21:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -247,34 +247,37 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [3]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [4]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 112.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 113.
 
 
 (c:/texlive/2015/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 112.
+(Font)              <8> on input line 113.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 112.
+(Font)              <6> on input line 113.
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--113
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
 \OT1/pcr/m/n/8 www . alanturing . net / turing _ archive / pages /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--122
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
 \OT1/pcr/m/n/8 www . slate . com / articles / technology / future _
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--122
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
 \OT1/pcr/m/n/8 tense / 2014 / 07 / ai _ drones _ ethics _ and _ laws _ if _
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--130
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
 \OT1/pcr/m/n/8 http : / / www . computer . org / csdl / mags / ex / 2009 / 04 /
 
  []
@@ -283,41 +286,50 @@ Missing character: There is no Ô in font ptmri7t!
 Missing character: There is no ¨ in font ptmri7t!
 Missing character: There is no Å in font ptmri7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--147
+Underfull \hbox (badness 10000) in paragraph at lines 146--148
 \OT1/ptm/m/it/8 http : / / www . ethicsofthefuture . com / 2010 / 09 / at-[]wha
 t-[]point-[]does-[]arti^^Lcial .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--151
+Underfull \hbox (badness 10000) in paragraph at lines 150--152
 \OT1/ptm/m/it/8 http : / / www . ^^Mickspin . com / en / arti^^Lcial[]intellige
 nce / ethics[]of[]ai[]legal[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--167
+Underfull \hbox (badness 10000) in paragraph at lines 166--168
 \OT1/ptm/m/it/8 http : / / spectrum . ieee . org / automaton / robotics / indus
 trial-[]robots /
  []
 
-[5
 
-] (./crh13_SEM6120_A1.aux) ) 
+Underfull \hbox (badness 1701) in paragraph at lines 170--172
+[]\OT1/ptm/m/n/8 Can Com-put-ers Pos-sess Emo-tional In-tel-li-gence?, E. Rein-
+gold, J.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--172
+\OT1/pcr/m/n/8 http : / / psych . utoronto . ca / users / reingold / courses /
+ []
+
+[5] (./crh13_SEM6120_A1.aux) ) 
 Here is how much of TeX's memory you used:
- 2431 strings out of 493054
- 39459 string characters out of 6138327
- 111468 words of memory out of 5000000
- 5946 multiletter control sequences out of 15000+600000
+ 2432 strings out of 493054
+ 39468 string characters out of 6138327
+ 109472 words of memory out of 5000000
+ 5947 multiletter control sequences out of 15000+600000
  37559 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,5n,23p,962b,344s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r
-.enc}<c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/t
-exlive/2015/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><c:/texlive/2015/texm
-f-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2015/texmf-dist/fonts/type1
-/urw/times/utmbi8a.pfb><c:/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a
-.pfb><c:/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on crh13_SEM6120_A1.pdf (5 pages, 93346 bytes).
+ 37i,5n,23p,987b,344s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2015/texmf-dist/fonts/enc/dvips/base/
+8r.enc}<c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:
+/texlive/2015/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><c:/texlive/2015/te
+xmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2015/texmf-dist/fonts/typ
+e1/urw/times/utmbi8a.pfb><c:/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr
+8a.pfb><c:/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on crh13_SEM6120_A1.pdf (5 pages, 93814 bytes).
 PDF statistics:
  45 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream
